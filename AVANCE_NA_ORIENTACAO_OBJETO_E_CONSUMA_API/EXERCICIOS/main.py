@@ -1,5 +1,5 @@
-from exercicios.carro import Carro
-from exercicios.moto import Moto
+from exercicios_1_2.carro import Carro
+from exercicios_1_2.moto import Moto
 
 carro_1 = Carro('Fiat','Mob',4)
 carro_2 = Carro('Hyundai','Veloster',3) 
